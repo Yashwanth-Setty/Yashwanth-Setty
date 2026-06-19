@@ -23,32 +23,45 @@
 
 ## 🚀 About Me
 
-```python
-class YashwanthSetty:
-    def __init__(self):
-        self.name        = "Yashwanth Setty"
-        self.role        = ["Full Stack Developer", "AI Engineer", "PhD Researcher"]
-        self.education   = "PhD in Information Technology (AI Specialization)"
-        self.experience  = "7+ years in Full Stack Development"
-        self.location    = "USA 🌎"
-        self.research    = ["IEEE Publications", "Lex Localis Journal"]
-        self.interests   = ["LLMs", "Multi-Agent Systems", "Cloud", "AI Research"]
-        self.building    = ["Agentic AI Systems", "AI Automation Products"]
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1200&color=A855F7&center=true&vCenter=true&width=700&lines=PhD+Student+%7C+AI+Specialization;7%2B+Years+Full+Stack+Development;IEEE+%26+Lex+Localis+Published+Researcher;Building+Agentic+AI+%26+LLM+Systems;Based+in+USA+%F0%9F%8C%8E" alt="About Me" />
+</div>
 
-    def philosophy(self):
-        while alive:
-            Learn()
-            Build()
-            Publish()
-            Improve()
-```
+<br/>
 
-- 🎓 **PhD Student** in Information Technology (AI Specialization)
-- 💻 **7+ years** of Full Stack Development experience
-- 🤖 Building **Agentic AI systems** and AI automation products
-- 🔬 **Published researcher** — IEEE & Lex Localis
-- 📚 Passionate about **LLMs, Multi-Agent Systems, Cloud & AI Research**
-- 🚀 Continuously building projects and learning
+<table align="center" border="0">
+<tr>
+<td width="50%" valign="top">
+
+🎓 &nbsp; **PhD Student** — AI Specialization  
+💻 &nbsp; **7+ years** Full Stack Development  
+🤖 &nbsp; Building **Agentic AI** systems & automation  
+🔬 &nbsp; **Published** — IEEE & Lex Localis  
+
+</td>
+<td width="50%" valign="top">
+
+📚 &nbsp; Passionate about **LLMs & Multi-Agent Systems**  
+☁️ &nbsp; Deep expertise in **Cloud & DevOps**  
+🌎 &nbsp; Based in **USA**  
+🚀 &nbsp; Always building, learning & publishing  
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+<div align="center">
+
+### 💡 My Philosophy
+
+![Learn](https://img.shields.io/badge/①_Learn-A855F7?style=for-the-badge)
+![Build](https://img.shields.io/badge/②_Build-6366F1?style=for-the-badge)
+![Publish](https://img.shields.io/badge/③_Publish-3B82F6?style=for-the-badge)
+![Improve](https://img.shields.io/badge/④_Improve-F59E0B?style=for-the-badge)
+
+</div>
 
 ---
 
